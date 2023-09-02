@@ -1,0 +1,85 @@
+.body  {
+    margin: 20px;
+}
+
+.navbar{
+    display: flex;
+    margin-left: 80px;
+    border-bottom: 2px solid green;
+    width: 87%;
+    justify-content: space-around;
+    color: white;
+    align-items: center;
+    margin-top: 40px;
+    background-color: rgba(var(--bs-light-rgb)) !important;
+}
+
+.navbar ul li{
+    display: inline-block;
+    margin-right: 20px;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: black
+}
+
+
+.navbar button{
+    text-decoration: none;
+}
+
+.navbar img{
+    width: 250px;
+}
+
+.bg{
+    background-image: url(images/greenleaf.png);
+    background-position: center;
+    background-repeat: none;
+}
+
+
+.sign-up1{
+    /* background-color: rgba(var(--bs-light-rgb)) !important; */
+    padding: 20px 20px 30px 20px;
+    margin: 200px;
+    margin-top: 10px;
+    /* border: 1PX solid black; */
+}
+
+.form-check{
+    margin: 10px;
+}
+
+.form-label1{
+    padding-right: 150px ;
+}
+
+.col-12 button{
+    margin: 10px;
+    padding: 5px 20px 5px 20px;
+}
+
+.bottom{
+    background-color: black;
+    /* justify-content: center; */
+    color: green;
+    padding: 10px;
+    /* margin-bottom: 10px; */
+
+}
+
+.span{
+    display: inline;
+    margin: 20px;
+}
+
+.digital svg{
+    /* padding: 10px; */
+    margin-left: 10px;
+}
+
+.digital{
+    display: inline;
+    margin-left: 60%;
+}
